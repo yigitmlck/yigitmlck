@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Analysis & Machine Learning**
+- 🌱 I’m currently improving **Data Analysis & Machine Learning** skills
 
 - 📫 How to reach me **yigitmalcok@hotmail.com**
 
