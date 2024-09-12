@@ -26,6 +26,4 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitmlcl&show_icons=true&locale=en" alt="yigitmlcl" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitmlcl&label=Profile%20views&color=0e75b6&style=flat" alt="yigitmlcl" /> </p>
